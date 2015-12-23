@@ -1,0 +1,9 @@
+E:\Dropbox\Teaching\2558.01\OOP\Program\testDictionary\testDictionary\bin\Debug\testDictionary.exe.config
+E:\Dropbox\Teaching\2558.01\OOP\Program\testDictionary\testDictionary\bin\Debug\testDictionary.exe
+E:\Dropbox\Teaching\2558.01\OOP\Program\testDictionary\testDictionary\bin\Debug\testDictionary.pdb
+E:\Dropbox\Teaching\2558.01\OOP\Program\testDictionary\testDictionary\obj\Debug\testDictionary.csprojResolveAssemblyReference.cache
+E:\Dropbox\Teaching\2558.01\OOP\Program\testDictionary\testDictionary\obj\Debug\testDictionary.Form1.resources
+E:\Dropbox\Teaching\2558.01\OOP\Program\testDictionary\testDictionary\obj\Debug\testDictionary.Properties.Resources.resources
+E:\Dropbox\Teaching\2558.01\OOP\Program\testDictionary\testDictionary\obj\Debug\testDictionary.csproj.GenerateResource.Cache
+E:\Dropbox\Teaching\2558.01\OOP\Program\testDictionary\testDictionary\obj\Debug\testDictionary.exe
+E:\Dropbox\Teaching\2558.01\OOP\Program\testDictionary\testDictionary\obj\Debug\testDictionary.pdb
